@@ -16,7 +16,7 @@ I believe that the defining moments in our lives come as we are faced with the m
 
 `Spring 2024`\
 __Brigham Young University–Idaho__, Rexburg, ID
-
+<!-- MAKE SURE TO STATE YOUR MAJOR-->
 - Interested in Accounting Programming
 - Relevant Courses: Financial and Managerial Accounting, Micro- and Macro- economics, Business Statistics, Introduction to Databases, Data Science Programming
 - BYU-Idaho Grant Scholarship, Federal Pell Grant
